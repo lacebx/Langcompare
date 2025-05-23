@@ -37,7 +37,7 @@ But failing a class doesn’t mean I don’t understand the material or can’t 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/your-username/langcompare.git
+git clone https://github.com/lacebx/Langcompare.git
 cd langcompare
 npm install
 npm run dev
