@@ -1,6 +1,6 @@
 # 🧠 LangCompare
 
-**LangCompare** is a clean, fast React + Vite app that compares how different programming languages handle common programming tasks — side by side.
+**LangCompare** is a clean, fast React + Tailwind CSS app that compares how different programming languages handle common programming tasks — side by side.
 
 ---
 
@@ -29,9 +29,7 @@ But failing a class doesn’t mean I don’t understand the material or can’t 
 
 - **Framework:** React
 - **Bundler:** Vite
-- **Styling:** Tailwind CSS (or your preferred setup)
-- **Code Highlighting:** Prism.js / Shiki (optional)
-
+- **Styling:** Tailwind CSS
 ---
 
 ## 📦 Installation
@@ -45,7 +43,7 @@ npm run dev
 
 ## 🤝 Contributing
 
-Want to add more languages or comparison sections? Fork the repo and send a PR — happy to collaborate.
+Want to add more languages or comparison sections? Fork the repo and send a PR — happy to collaborate :) .
 ## 📜 License
 
 MIT License
